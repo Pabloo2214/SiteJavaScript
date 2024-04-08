@@ -1,0 +1,484 @@
+.alert {
+
+    color: blue;
+
+}
+
+body {
+
+    margin: 0%;
+    color: #ffffff;
+    background-color: #2c2f33;
+    font-family: 'gg sans', sans-serif;
+
+}
+
+.navbar{
+
+    color: #ffffff;
+    background-color: #090a0a;
+    border-color: #090a0a;
+
+}
+
+.nav-item{
+
+    color: #ffffff;
+}
+
+
+.text1{
+
+border-color: #090a0a;
+display: flex;
+justify-content: center;
+align-content: center;
+flex-direction: column;
+padding: 40px 0;
+
+}
+
+.titulo{
+
+    text-align: center;
+
+}
+
+img{
+
+    width: 25px;
+    height: 25px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.nav-link_active{
+
+    color: #ffffff;
+    align-items: center;
+
+}
+
+.card{
+
+   
+    align-items: center;
+    justify-content: center;
+    background-color: #25272b;
+    color: #ffffff;
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    
+    
+
+}
+
+.control {
+
+    width: 1000px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+
+}
+
+.card-img-top{
+
+    align-self: center;
+    height: 900px;
+    width: 650px;
+
+}
+
+.subTitulos{
+
+    padding-left: 90px;
+
+}
+
+.row1{
+
+    background-color: #25272b;
+    display: flex;
+    width: 800PX;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    right: 150px;
+    float: right;
+    border-radius: 5px;
+    border-color: #090a0a;
+    padding: 2px;
+    border: 3px solid #222327;
+    
+
+    
+    
+
+
+}
+
+.p-1 {
+    
+    text-decoration: none;
+    
+    padding-right: 5px;
+
+
+}
+
+.col-8 {
+
+    border: 3px solid #222327;
+    padding-left: 10px; 
+    
+}
+
+.textorow {
+
+    color: #c0bebe;
+    line-height: 28px;   
+
+}
+
+
+.positionLogo{
+
+    position: relative;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    left: 42%;
+
+}
+
+.logoJava {
+
+    position: relative;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; 
+    width: 300px;
+    height: 200px;
+
+
+}
+
+.scrollspy-example{
+
+    height: 500px;
+
+
+}
+
+
+.card2{
+
+    align-items: flex-end;
+    justify-content: flex-end;
+    display: flex;
+    margin: 0 auto;
+    position: absolute;
+    padding-left: 150px;
+    border-radius: 5px;
+    
+
+}
+
+.buttom{
+
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    top: -45px;
+   
+    
+}
+
+.buttom2{
+
+    position: relative;
+    float: right;
+    display: flex;
+    top: 735px;
+    left: 310px;
+    
+
+}
+
+
+
+
+.geral {
+
+    position: relative;
+    float: left;
+    left: 100px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    margin: 0 auto;
+    max-width: 700px;
+
+
+
+}
+
+.liveAlertPlaceholder{
+
+    position: relative;
+    float: right;
+    right: 1000px;
+
+
+}
+
+.modal1 {
+
+position: relative;
+float: right;
+right: 500px;
+
+}
+
+.titulo3 {
+
+    Text-align: center;
+    padding-top: 250px;
+
+
+}
+
+.login {
+
+    background-color: #25272b;
+    width: 500px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    right: -785px;
+    padding: 50px;
+    border-radius: 5%;
+  
+
+}
+
+.quadrante1 {
+
+    background-color: #222327;
+    height: 500px;
+
+}
+
+.texto1 {
+
+    top: 160px;
+    position: relative;
+    float: left;
+    left: 70px;
+    line-height: 28px;
+
+
+}
+
+.imagemText1 {
+
+    position: relative;
+    float: right;
+    right: 500px;
+    top: 70px;
+    width: 200px;
+    height: 200px;
+    
+
+}
+
+.firstimage {
+
+    width: 500px;
+    height: 350px;
+    border-radius: 50px;
+
+}
+
+.quadrante2 {
+
+   
+    height: 500px;
+
+}
+
+.texto2 {
+
+    top:  160px;
+    position: relative;
+    float: right;
+    right: 70px;
+    line-height: 28px;  
+
+}
+
+.imagemText2 {
+
+    position: relative;
+    float: left;
+    left: 200px;
+    top: 70px;
+    width: 200px;
+    height: 200px;
+
+}
+
+.carousel-inner {
+
+    height: 500px;
+    width: 1000px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+
+
+}
+
+.d-block {
+
+    height: 500px;
+    width: 500px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    position: absolute;
+    border-radius: 20px;
+    margin: 0 auto;
+
+}
+
+.carousel-control-prev {
+
+    left: 300px;
+
+}
+
+.carousel-control-next{
+
+    right: 300px;
+
+}
+
+.secondimage {
+
+    width: 500px;
+    height: 350px;
+    border-radius: 50px;
+
+}
+
+.linhaDTexto {
+
+    color: #c0bebe;
+
+}
+
+.quadrante3 {
+
+    background-color: #222327;
+    height: 400px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    border-radius: 3%;
+
+}
+
+.texto3 {
+
+    top: 160px;
+    align-items: center;
+    left: 70px;
+    line-height: 28px;
+    padding-top: 100px;    
+
+
+
+
+}
+
+.imagemExemplo {
+
+    width: 700px;
+    height: 300px;
+    border-radius: 8%;
+    align-items: center;
+    right: 100px;
+    position: relative;
+
+}
+
+.modal-content {
+
+    width: 800px;
+    background-color: #25272b;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    position: relative;
+    float: left;
+    top: 200px;
+    left: 350px;
+
+}
+
+.card-text{
+
+    color: #c0bebe;
+    line-height: 28px;
+
+}
+
+.bnt {
+
+    position: relative;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.buttomInicio{
+
+    top: 60px;
+    position: relative;
+
+}
+
+.tudo {
+
+    width: 80vw;
+    align-items: center;
+    position: relative;
+    justify-content: center;
+    margin: 0 auto;
+    border-radius: 15;
+    border: #090a0a;
+    
+
+}
